@@ -1,0 +1,6 @@
+@A_PSC.BackEnd_HostAddress = http://localhost:5133
+
+GET {{A_PSC.BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

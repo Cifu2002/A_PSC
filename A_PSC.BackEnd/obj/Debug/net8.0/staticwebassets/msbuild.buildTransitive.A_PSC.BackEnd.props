@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\A_PSC.BackEnd.props" />
+</Project>
