@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "A_PSC.BackEnd\\A_PSC.BackEnd.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

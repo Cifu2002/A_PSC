@@ -1,0 +1,18 @@
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\wwwroot\js\site.js
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\wwwroot\js\localStorageHelper.js
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\wwwroot\css\app.css
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\wwwroot\index.html
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\wwwroot\sample-data\weather.json
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\wwwroot\appsettings.json
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\appsettings.json
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
+wwwroot\icon-192.png
+wwwroot\index.html
+wwwroot\js\localStorageHelper.js
+wwwroot\js\site.js
+wwwroot\sample-data\weather.json

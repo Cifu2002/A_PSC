@@ -4,6 +4,7 @@ C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\ww
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\A_PSC.Shared.wasm
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.js
@@ -289,6 +290,7 @@ C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\ww
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.gz
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\System.Resources.ResourceManager.wasm.gz
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.Linq.wasm.gz
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm.gz
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\System.Configuration.wasm.gz
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.wasm.gz
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\wwwroot\_framework\System.IO.IsolatedStorage.wasm.gz
@@ -416,6 +418,7 @@ C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\A_
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\A_PSC.FrontEnd.staticwebassets.endpoints.json
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\A_PSC.FrontEnd.dll
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\A_PSC.FrontEnd.pdb
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\Blazored.LocalStorage.dll
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -625,6 +628,8 @@ C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\A_
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\A_PSC.FrontEnd.AssemblyInfo.cs
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\A_PSC.FrontEnd.csproj.CoreCompileInputs.cache
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\A_PSC.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\A_PSC.FrontEnd.sourcelink.json
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\webcil\Blazored.LocalStorage.wasm
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -825,6 +830,7 @@ C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\sc
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\blazor.build.boot-extension.json
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\blazor.boot.json
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\1uewwngovm-mv535bwyet.gz
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\fyvf18rjx5-12n6dz54qr.gz
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\je0ym9aiky-d4bynu24md.gz
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\1oi6wa4mxb-zetociqhzy.gz
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\4xu0t7mb1r-4f2wbgmfmy.gz
@@ -1026,8 +1032,11 @@ C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\co
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\via0bfaedu-tptq2av103.gz
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\inxaudkn1g-lfu7j35m59.gz
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\kmsf0wvyny-oyz0vx2fzb.gz
-C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\uz8d7greah-1ugmtzc8sz.gz
-C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\he6o8kpug7-71f4ebmp1s.gz
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\uz8d7greah-7mc5t3jbuj.gz
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\he6o8kpug7-v5qzdo4zhl.gz
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\opfp2k51k6-8a8f8wy1vk.gz
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\f8kjkjunko-tnms9m6ws0.gz
+C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\pvijz5ytm2-vqtidpabho.gz
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -1043,6 +1052,3 @@ C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\A_
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\refint\A_PSC.FrontEnd.dll
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\A_PSC.FrontEnd.pdb
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\ref\A_PSC.FrontEnd.dll
-C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\opfp2k51k6-6km1wk3uva.gz
-C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\f8kjkjunko-71clc1r39x.gz
-C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.FrontEnd\obj\Debug\net8.0\compressed\pvijz5ytm2-d40chvijlj.gz

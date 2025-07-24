@@ -33,6 +33,14 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\wwwroot\\js\\localStorageHelper.js",
+      "PackagePath": "staticwebassets\\js\\localStorageHelper.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
       "Id": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },

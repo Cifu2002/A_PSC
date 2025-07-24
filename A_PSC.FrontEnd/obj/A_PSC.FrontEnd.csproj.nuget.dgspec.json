@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC - copia\\A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj": {}
+    "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC - copia\\A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj": {
+    "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC - copia\\A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj",
+        "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj",
         "projectName": "A_PSC.FrontEnd",
-        "projectPath": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC - copia\\A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj",
+        "projectPath": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj",
         "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC - copia\\A_PSC.FrontEnd\\obj\\",
+        "outputPath": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,18 +22,18 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC - copia\\A_PSC.Shared\\A_PSC.Shared.csproj": {
-                "projectPath": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC - copia\\A_PSC.Shared\\A_PSC.Shared.csproj"
+              "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.Shared\\A_PSC.Shared.csproj": {
+                "projectPath": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.Shared\\A_PSC.Shared.csproj"
               }
             }
           }
@@ -51,22 +51,30 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[8.0.16, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.16, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.13, )",
+              "version": "[9.0.2, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
@@ -90,7 +98,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.13, 8.0.13]"
+              "version": "[9.0.2, 9.0.2]"
             }
           ],
           "frameworkReferences": {
@@ -107,14 +115,14 @@
         }
       }
     },
-    "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC - copia\\A_PSC.Shared\\A_PSC.Shared.csproj": {
+    "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.Shared\\A_PSC.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC - copia\\A_PSC.Shared\\A_PSC.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.Shared\\A_PSC.Shared.csproj",
         "projectName": "A_PSC.Shared",
-        "projectPath": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC - copia\\A_PSC.Shared\\A_PSC.Shared.csproj",
+        "projectPath": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.Shared\\A_PSC.Shared.csproj",
         "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC - copia\\A_PSC.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -125,15 +133,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -150,8 +158,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
