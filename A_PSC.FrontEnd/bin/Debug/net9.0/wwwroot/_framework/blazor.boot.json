@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "A_PSC.FrontEnd",
   "resources": {
-    "hash": "sha256-qMAmFagYE9tts2ig6c+TVMKkbl/Mrtw+d/B+2QRXlyg=",
+    "hash": "sha256-0h21ky7eRZDkSEDG2PHLN+PTrNcmorBjyVomrW9xCF4=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "Microsoft.AspNetCore.Authorization.bvu82j4ad3.wasm": "Microsoft.AspNetCore.Authorization.wasm",
@@ -203,10 +203,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "A_PSC.Shared.1a6m2jfhnx.wasm": "A_PSC.Shared.wasm",
-      "A_PSC.Shared.lmyek1ket6.pdb": "A_PSC.Shared.pdb",
-      "A_PSC.FrontEnd.4icu8k4fi0.wasm": "A_PSC.FrontEnd.wasm",
-      "A_PSC.FrontEnd.hkwxigexs4.pdb": "A_PSC.FrontEnd.pdb"
+      "A_PSC.Shared.zjhb5hw0al.wasm": "A_PSC.Shared.wasm",
+      "A_PSC.Shared.r3qgfckw38.pdb": "A_PSC.Shared.pdb",
+      "A_PSC.FrontEnd.ki3gsqjz1u.wasm": "A_PSC.FrontEnd.wasm",
+      "A_PSC.FrontEnd.cfwhwlk3jl.pdb": "A_PSC.FrontEnd.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8bti36lthm.js": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
@@ -418,12 +418,12 @@
       "WindowsBase.tuf34ieu7y.wasm": "sha256-Bd+l972cOS1eVeLzrQNlgD6LPWV1QXBSzJhv8Tx1WGI=",
       "mscorlib.5q5u0swn6q.wasm": "sha256-g9cI1sECkF7bxMqOSB+W0a4utdDsqTrqZzyiAEeA65g=",
       "netstandard.w8gk1pigg1.wasm": "sha256-QFR5QNPfvyZTexW3IA/AFx6ZmIF/TecvOUsSK4gM4po=",
-      "A_PSC.Shared.1a6m2jfhnx.wasm": "sha256-SWd8+XkRjAoNdgCr2ER3p6zZHJZ7/LzqyPmYuIzt1as=",
-      "A_PSC.FrontEnd.4icu8k4fi0.wasm": "sha256-NI1UBSXP+V/8ef++EY+8SEsX4mO0i0zP/lfu5P4gYpQ="
+      "A_PSC.Shared.zjhb5hw0al.wasm": "sha256-YcniFpmq2rifJTEKW24Hn+4WTRDeryG33fWoLF9xxr8=",
+      "A_PSC.FrontEnd.ki3gsqjz1u.wasm": "sha256-zKlXYGsMH5RjLCRE8t3VVTtfZYgs8yrVLEpOpcnycXA="
     },
     "pdb": {
-      "A_PSC.Shared.lmyek1ket6.pdb": "sha256-M2EAVLpIn9qX1atbocVUCUyqhwtz4p7UoJNHBGSJS+E=",
-      "A_PSC.FrontEnd.hkwxigexs4.pdb": "sha256-IdWkPM6JeHctgDo0e1EZnYVgtQZxNbA6HFTDKyD0N+o="
+      "A_PSC.Shared.r3qgfckw38.pdb": "sha256-J0eELfc6PWtrzy4s9gVndhsMcYreWIGNeaibXRHcc/g=",
+      "A_PSC.FrontEnd.cfwhwlk3jl.pdb": "sha256-mK3g8RnYrumHCoHaDYQyHb1BSdtqFPc7L0ULIdZ0384="
     }
   },
   "cacheBootResources": true,

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S/lKOS5O3C+BlQOJKuEbQyHKisy1NOU6rWxsWfstXc4=",
+  "Hash": "X232B1ocKAHNJhp5Mbxox9GaiUQeyd6V217yG+p4qcI=",
   "Source": "A_PSC.FrontEnd",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "hkwxigexs4",
-      "Integrity": "IdWkPM6JeHctgDo0e1EZnYVgtQZxNbA6HFTDKyD0N+o=",
+      "Fingerprint": "cfwhwlk3jl",
+      "Integrity": "mK3g8RnYrumHCoHaDYQyHb1BSdtqFPc7L0ULIdZ0384=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\A_PSC.FrontEnd.pdb"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "4icu8k4fi0",
-      "Integrity": "NI1UBSXP+V/8ef++EY+8SEsX4mO0i0zP/lfu5P4gYpQ=",
+      "Fingerprint": "ki3gsqjz1u",
+      "Integrity": "zKlXYGsMH5RjLCRE8t3VVTtfZYgs8yrVLEpOpcnycXA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\webcil\\A_PSC.FrontEnd.wasm"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "lmyek1ket6",
-      "Integrity": "M2EAVLpIn9qX1atbocVUCUyqhwtz4p7UoJNHBGSJS+E=",
+      "Fingerprint": "r3qgfckw38",
+      "Integrity": "J0eELfc6PWtrzy4s9gVndhsMcYreWIGNeaibXRHcc/g=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.Shared\\bin\\Debug\\net9.0\\A_PSC.Shared.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "1a6m2jfhnx",
-      "Integrity": "SWd8+XkRjAoNdgCr2ER3p6zZHJZ7/LzqyPmYuIzt1as=",
+      "Fingerprint": "zjhb5hw0al",
+      "Integrity": "YcniFpmq2rifJTEKW24Hn+4WTRDeryG33fWoLF9xxr8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\webcil\\A_PSC.Shared.wasm"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "yvr78ipeah",
-      "Integrity": "Etc/39UtGOPreM//gGEj0pncu8XU2wXnz7ZuabmMHVo=",
+      "Fingerprint": "8590kg4ra6",
+      "Integrity": "tP3l5KfylobnMx3O3IZ8ZRgcBagDudAi9vXU3DKyXsY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -6422,12 +6422,12 @@
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.wasm"
     },
     {
-      "Identity": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\esmzoa71ye-lmyek1ket6.gz",
+      "Identity": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\esmzoa71ye-r3qgfckw38.gz",
       "SourceId": "A_PSC.FrontEnd",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/A_PSC.Shared#[.{fingerprint=lmyek1ket6}]!.pdb.gz",
+      "RelativePath": "_framework/A_PSC.Shared#[.{fingerprint=r3qgfckw38}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6436,8 +6436,8 @@
       "RelatedAsset": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.Shared.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "arn1qv2bk4",
-      "Integrity": "hkSEW33u3nJiMwx2ibKZO+9teU8MdDzGGSuH1KnSp0I=",
+      "Fingerprint": "kvf3i9o8wz",
+      "Integrity": "IAlnmfaAjK8V8+yo+d4wNiUdK3RHweDEfiT5wtgxUGQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.Shared.pdb"
@@ -7052,12 +7052,12 @@
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.ComponentModel.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\l4ttwyj1oo-4icu8k4fi0.gz",
+      "Identity": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\l4ttwyj1oo-ki3gsqjz1u.gz",
       "SourceId": "A_PSC.FrontEnd",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/A_PSC.FrontEnd#[.{fingerprint=4icu8k4fi0}]!.wasm.gz",
+      "RelativePath": "_framework/A_PSC.FrontEnd#[.{fingerprint=ki3gsqjz1u}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7066,8 +7066,8 @@
       "RelatedAsset": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.FrontEnd.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jo37ci3izm",
-      "Integrity": "Y9JAxzn8GxxwAXJC4EaogZ0w26AZV/xwS9TDTzDheYc=",
+      "Fingerprint": "wwup0nmugr",
+      "Integrity": "wAT6QRKb4jtWqYAw5i1vfSw9or8U+cnsPUvQTxpOIrk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.FrontEnd.wasm"
@@ -7220,12 +7220,12 @@
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Globalization.Calendars.wasm"
     },
     {
-      "Identity": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\m9caz3vzin-1a6m2jfhnx.gz",
+      "Identity": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\m9caz3vzin-zjhb5hw0al.gz",
       "SourceId": "A_PSC.FrontEnd",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/A_PSC.Shared#[.{fingerprint=1a6m2jfhnx}]!.wasm.gz",
+      "RelativePath": "_framework/A_PSC.Shared#[.{fingerprint=zjhb5hw0al}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7234,8 +7234,8 @@
       "RelatedAsset": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.Shared.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5budiy2t1k",
-      "Integrity": "sVQtofOUGGJLnVxvOH6K5aDNRN8c1VQkRfb17Arf1t4=",
+      "Fingerprint": "6lxhvnn3vi",
+      "Integrity": "Si/YGySj/PlwnVyL8EXT4NjjbWuvbCSeXEvJlYDOXo4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.Shared.wasm"
@@ -7472,12 +7472,12 @@
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Text.Json.wasm"
     },
     {
-      "Identity": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\nnnfed4j4y-hkwxigexs4.gz",
+      "Identity": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\nnnfed4j4y-cfwhwlk3jl.gz",
       "SourceId": "A_PSC.FrontEnd",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/A_PSC.FrontEnd#[.{fingerprint=hkwxigexs4}]!.pdb.gz",
+      "RelativePath": "_framework/A_PSC.FrontEnd#[.{fingerprint=cfwhwlk3jl}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7486,8 +7486,8 @@
       "RelatedAsset": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.FrontEnd.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pax2uis0mx",
-      "Integrity": "ETvC0rXE0Y9byb/vMkbdnwZXS2WKqn+YcFeEEJ6rMzA=",
+      "Fingerprint": "xc9zf6hlcy",
+      "Integrity": "3073fGazZK31AXqpuF+F0ZB77kMMrvGqAoXM50gIYjU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.FrontEnd.pdb"
@@ -7829,7 +7829,7 @@
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\pvijz5ytm2-yvr78ipeah.gz",
+      "Identity": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\pvijz5ytm2-8590kg4ra6.gz",
       "SourceId": "A_PSC.FrontEnd",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\",
@@ -7843,8 +7843,8 @@
       "RelatedAsset": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fblts84r6h",
-      "Integrity": "1TKRb4S0CLjlluFPRrAsaZog6qU9/eYeTWeIQUWT7L8=",
+      "Fingerprint": "plvc78njrj",
+      "Integrity": "/eHhV1eVGvd/Ri+esUhY+9nt5hnnKgVMEpfYuasmCsU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9217,168 +9217,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "_framework/A_PSC.FrontEnd.4icu8k4fi0.wasm",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.FrontEnd.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "42773"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NI1UBSXP+V/8ef++EY+8SEsX4mO0i0zP/lfu5P4gYpQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4icu8k4fi0"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/A_PSC.FrontEnd.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NI1UBSXP+V/8ef++EY+8SEsX4mO0i0zP/lfu5P4gYpQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/A_PSC.FrontEnd.4icu8k4fi0.wasm",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\l4ttwyj1oo-4icu8k4fi0.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000059477785"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16812"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Y9JAxzn8GxxwAXJC4EaogZ0w26AZV/xwS9TDTzDheYc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"NI1UBSXP+V/8ef++EY+8SEsX4mO0i0zP/lfu5P4gYpQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4icu8k4fi0"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/A_PSC.FrontEnd.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NI1UBSXP+V/8ef++EY+8SEsX4mO0i0zP/lfu5P4gYpQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/A_PSC.FrontEnd.4icu8k4fi0.wasm.gz",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\l4ttwyj1oo-4icu8k4fi0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16812"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Y9JAxzn8GxxwAXJC4EaogZ0w26AZV/xwS9TDTzDheYc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4icu8k4fi0"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/A_PSC.FrontEnd.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Y9JAxzn8GxxwAXJC4EaogZ0w26AZV/xwS9TDTzDheYc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/A_PSC.FrontEnd.hkwxigexs4.pdb",
+      "Route": "_framework/A_PSC.FrontEnd.cfwhwlk3jl.pdb",
       "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.FrontEnd.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9396,11 +9235,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IdWkPM6JeHctgDo0e1EZnYVgtQZxNbA6HFTDKyD0N+o=\""
+          "Value": "\"mK3g8RnYrumHCoHaDYQyHb1BSdtqFPc7L0ULIdZ0384=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9410,7 +9249,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hkwxigexs4"
+          "Value": "cfwhwlk3jl"
         },
         {
           "Name": "label",
@@ -9418,18 +9257,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IdWkPM6JeHctgDo0e1EZnYVgtQZxNbA6HFTDKyD0N+o="
+          "Value": "sha256-mK3g8RnYrumHCoHaDYQyHb1BSdtqFPc7L0ULIdZ0384="
         }
       ]
     },
     {
-      "Route": "_framework/A_PSC.FrontEnd.hkwxigexs4.pdb",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\nnnfed4j4y-hkwxigexs4.gz",
+      "Route": "_framework/A_PSC.FrontEnd.cfwhwlk3jl.pdb",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\nnnfed4j4y-cfwhwlk3jl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000034491084"
+          "Quality": "0.000034494653"
         }
       ],
       "ResponseHeaders": [
@@ -9439,15 +9278,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28992"
+          "Value": "28989"
         },
         {
           "Name": "ETag",
-          "Value": "\"ETvC0rXE0Y9byb/vMkbdnwZXS2WKqn+YcFeEEJ6rMzA=\""
+          "Value": "\"3073fGazZK31AXqpuF+F0ZB77kMMrvGqAoXM50gIYjU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9467,13 +9306,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IdWkPM6JeHctgDo0e1EZnYVgtQZxNbA6HFTDKyD0N+o=\""
+          "Value": "W/\"mK3g8RnYrumHCoHaDYQyHb1BSdtqFPc7L0ULIdZ0384=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hkwxigexs4"
+          "Value": "cfwhwlk3jl"
         },
         {
           "Name": "label",
@@ -9481,13 +9320,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IdWkPM6JeHctgDo0e1EZnYVgtQZxNbA6HFTDKyD0N+o="
+          "Value": "sha256-mK3g8RnYrumHCoHaDYQyHb1BSdtqFPc7L0ULIdZ0384="
         }
       ]
     },
     {
-      "Route": "_framework/A_PSC.FrontEnd.hkwxigexs4.pdb.gz",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\nnnfed4j4y-hkwxigexs4.gz",
+      "Route": "_framework/A_PSC.FrontEnd.cfwhwlk3jl.pdb.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\nnnfed4j4y-cfwhwlk3jl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9496,7 +9335,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28992"
+          "Value": "28989"
         },
         {
           "Name": "Content-Type",
@@ -9504,11 +9343,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ETvC0rXE0Y9byb/vMkbdnwZXS2WKqn+YcFeEEJ6rMzA=\""
+          "Value": "\"3073fGazZK31AXqpuF+F0ZB77kMMrvGqAoXM50gIYjU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9526,7 +9365,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hkwxigexs4"
+          "Value": "cfwhwlk3jl"
         },
         {
           "Name": "label",
@@ -9534,7 +9373,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ETvC0rXE0Y9byb/vMkbdnwZXS2WKqn+YcFeEEJ6rMzA="
+          "Value": "sha256-3073fGazZK31AXqpuF+F0ZB77kMMrvGqAoXM50gIYjU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/A_PSC.FrontEnd.ki3gsqjz1u.wasm",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.FrontEnd.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKlXYGsMH5RjLCRE8t3VVTtfZYgs8yrVLEpOpcnycXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki3gsqjz1u"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/A_PSC.FrontEnd.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKlXYGsMH5RjLCRE8t3VVTtfZYgs8yrVLEpOpcnycXA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/A_PSC.FrontEnd.ki3gsqjz1u.wasm",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\l4ttwyj1oo-ki3gsqjz1u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000059488400"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16809"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wAT6QRKb4jtWqYAw5i1vfSw9or8U+cnsPUvQTxpOIrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zKlXYGsMH5RjLCRE8t3VVTtfZYgs8yrVLEpOpcnycXA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki3gsqjz1u"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/A_PSC.FrontEnd.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKlXYGsMH5RjLCRE8t3VVTtfZYgs8yrVLEpOpcnycXA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/A_PSC.FrontEnd.ki3gsqjz1u.wasm.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\l4ttwyj1oo-ki3gsqjz1u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wAT6QRKb4jtWqYAw5i1vfSw9or8U+cnsPUvQTxpOIrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki3gsqjz1u"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/A_PSC.FrontEnd.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wAT6QRKb4jtWqYAw5i1vfSw9or8U+cnsPUvQTxpOIrk="
         }
       ]
     },
@@ -9557,11 +9557,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IdWkPM6JeHctgDo0e1EZnYVgtQZxNbA6HFTDKyD0N+o=\""
+          "Value": "\"mK3g8RnYrumHCoHaDYQyHb1BSdtqFPc7L0ULIdZ0384=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9571,18 +9571,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IdWkPM6JeHctgDo0e1EZnYVgtQZxNbA6HFTDKyD0N+o="
+          "Value": "sha256-mK3g8RnYrumHCoHaDYQyHb1BSdtqFPc7L0ULIdZ0384="
         }
       ]
     },
     {
       "Route": "_framework/A_PSC.FrontEnd.pdb",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\nnnfed4j4y-hkwxigexs4.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\nnnfed4j4y-cfwhwlk3jl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000034491084"
+          "Quality": "0.000034494653"
         }
       ],
       "ResponseHeaders": [
@@ -9592,15 +9592,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28992"
+          "Value": "28989"
         },
         {
           "Name": "ETag",
-          "Value": "\"ETvC0rXE0Y9byb/vMkbdnwZXS2WKqn+YcFeEEJ6rMzA=\""
+          "Value": "\"3073fGazZK31AXqpuF+F0ZB77kMMrvGqAoXM50gIYjU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9620,19 +9620,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IdWkPM6JeHctgDo0e1EZnYVgtQZxNbA6HFTDKyD0N+o=\""
+          "Value": "W/\"mK3g8RnYrumHCoHaDYQyHb1BSdtqFPc7L0ULIdZ0384=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IdWkPM6JeHctgDo0e1EZnYVgtQZxNbA6HFTDKyD0N+o="
+          "Value": "sha256-mK3g8RnYrumHCoHaDYQyHb1BSdtqFPc7L0ULIdZ0384="
         }
       ]
     },
     {
       "Route": "_framework/A_PSC.FrontEnd.pdb.gz",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\nnnfed4j4y-hkwxigexs4.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\nnnfed4j4y-cfwhwlk3jl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9641,7 +9641,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28992"
+          "Value": "28989"
         },
         {
           "Name": "Content-Type",
@@ -9649,11 +9649,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ETvC0rXE0Y9byb/vMkbdnwZXS2WKqn+YcFeEEJ6rMzA=\""
+          "Value": "\"3073fGazZK31AXqpuF+F0ZB77kMMrvGqAoXM50gIYjU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9671,7 +9671,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ETvC0rXE0Y9byb/vMkbdnwZXS2WKqn+YcFeEEJ6rMzA="
+          "Value": "sha256-3073fGazZK31AXqpuF+F0ZB77kMMrvGqAoXM50gIYjU="
         }
       ]
     },
@@ -9694,11 +9694,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NI1UBSXP+V/8ef++EY+8SEsX4mO0i0zP/lfu5P4gYpQ=\""
+          "Value": "\"zKlXYGsMH5RjLCRE8t3VVTtfZYgs8yrVLEpOpcnycXA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9708,18 +9708,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NI1UBSXP+V/8ef++EY+8SEsX4mO0i0zP/lfu5P4gYpQ="
+          "Value": "sha256-zKlXYGsMH5RjLCRE8t3VVTtfZYgs8yrVLEpOpcnycXA="
         }
       ]
     },
     {
       "Route": "_framework/A_PSC.FrontEnd.wasm",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\l4ttwyj1oo-4icu8k4fi0.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\l4ttwyj1oo-ki3gsqjz1u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000059477785"
+          "Quality": "0.000059488400"
         }
       ],
       "ResponseHeaders": [
@@ -9729,15 +9729,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16812"
+          "Value": "16809"
         },
         {
           "Name": "ETag",
-          "Value": "\"Y9JAxzn8GxxwAXJC4EaogZ0w26AZV/xwS9TDTzDheYc=\""
+          "Value": "\"wAT6QRKb4jtWqYAw5i1vfSw9or8U+cnsPUvQTxpOIrk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9757,19 +9757,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NI1UBSXP+V/8ef++EY+8SEsX4mO0i0zP/lfu5P4gYpQ=\""
+          "Value": "W/\"zKlXYGsMH5RjLCRE8t3VVTtfZYgs8yrVLEpOpcnycXA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NI1UBSXP+V/8ef++EY+8SEsX4mO0i0zP/lfu5P4gYpQ="
+          "Value": "sha256-zKlXYGsMH5RjLCRE8t3VVTtfZYgs8yrVLEpOpcnycXA="
         }
       ]
     },
     {
       "Route": "_framework/A_PSC.FrontEnd.wasm.gz",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\l4ttwyj1oo-4icu8k4fi0.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\l4ttwyj1oo-ki3gsqjz1u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9778,7 +9778,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16812"
+          "Value": "16809"
         },
         {
           "Name": "Content-Type",
@@ -9786,11 +9786,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Y9JAxzn8GxxwAXJC4EaogZ0w26AZV/xwS9TDTzDheYc=\""
+          "Value": "\"wAT6QRKb4jtWqYAw5i1vfSw9or8U+cnsPUvQTxpOIrk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9808,173 +9808,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Y9JAxzn8GxxwAXJC4EaogZ0w26AZV/xwS9TDTzDheYc="
+          "Value": "sha256-wAT6QRKb4jtWqYAw5i1vfSw9or8U+cnsPUvQTxpOIrk="
         }
       ]
     },
     {
-      "Route": "_framework/A_PSC.Shared.1a6m2jfhnx.wasm",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.Shared.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12053"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SWd8+XkRjAoNdgCr2ER3p6zZHJZ7/LzqyPmYuIzt1as=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1a6m2jfhnx"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/A_PSC.Shared.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SWd8+XkRjAoNdgCr2ER3p6zZHJZ7/LzqyPmYuIzt1as="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/A_PSC.Shared.1a6m2jfhnx.wasm",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\m9caz3vzin-1a6m2jfhnx.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000226193169"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4420"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sVQtofOUGGJLnVxvOH6K5aDNRN8c1VQkRfb17Arf1t4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"SWd8+XkRjAoNdgCr2ER3p6zZHJZ7/LzqyPmYuIzt1as=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1a6m2jfhnx"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/A_PSC.Shared.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SWd8+XkRjAoNdgCr2ER3p6zZHJZ7/LzqyPmYuIzt1as="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/A_PSC.Shared.1a6m2jfhnx.wasm.gz",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\m9caz3vzin-1a6m2jfhnx.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4420"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sVQtofOUGGJLnVxvOH6K5aDNRN8c1VQkRfb17Arf1t4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1a6m2jfhnx"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/A_PSC.Shared.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sVQtofOUGGJLnVxvOH6K5aDNRN8c1VQkRfb17Arf1t4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/A_PSC.Shared.lmyek1ket6.pdb",
+      "Route": "_framework/A_PSC.Shared.pdb",
       "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.Shared.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9984,7 +9823,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13700"
+          "Value": "14420"
         },
         {
           "Name": "Content-Type",
@@ -9992,40 +9831,32 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M2EAVLpIn9qX1atbocVUCUyqhwtz4p7UoJNHBGSJS+E=\""
+          "Value": "\"J0eELfc6PWtrzy4s9gVndhsMcYreWIGNeaibXRHcc/g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:43 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:10 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "lmyek1ket6"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/A_PSC.Shared.pdb"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-M2EAVLpIn9qX1atbocVUCUyqhwtz4p7UoJNHBGSJS+E="
+          "Value": "sha256-J0eELfc6PWtrzy4s9gVndhsMcYreWIGNeaibXRHcc/g="
         }
       ]
     },
     {
-      "Route": "_framework/A_PSC.Shared.lmyek1ket6.pdb",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\esmzoa71ye-lmyek1ket6.gz",
+      "Route": "_framework/A_PSC.Shared.pdb",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\esmzoa71ye-r3qgfckw38.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000131578947"
+          "Quality": "0.000127113258"
         }
       ],
       "ResponseHeaders": [
@@ -10035,19 +9866,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7599"
+          "Value": "7866"
         },
         {
           "Name": "ETag",
-          "Value": "\"hkSEW33u3nJiMwx2ibKZO+9teU8MdDzGGSuH1KnSp0I=\""
+          "Value": "\"IAlnmfaAjK8V8+yo+d4wNiUdK3RHweDEfiT5wtgxUGQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10063,27 +9894,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"M2EAVLpIn9qX1atbocVUCUyqhwtz4p7UoJNHBGSJS+E=\""
+          "Value": "W/\"J0eELfc6PWtrzy4s9gVndhsMcYreWIGNeaibXRHcc/g=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "lmyek1ket6"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/A_PSC.Shared.pdb"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-M2EAVLpIn9qX1atbocVUCUyqhwtz4p7UoJNHBGSJS+E="
+          "Value": "sha256-J0eELfc6PWtrzy4s9gVndhsMcYreWIGNeaibXRHcc/g="
         }
       ]
     },
     {
-      "Route": "_framework/A_PSC.Shared.lmyek1ket6.pdb.gz",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\esmzoa71ye-lmyek1ket6.gz",
+      "Route": "_framework/A_PSC.Shared.pdb.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\esmzoa71ye-r3qgfckw38.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10092,7 +9915,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7599"
+          "Value": "7866"
         },
         {
           "Name": "Content-Type",
@@ -10100,11 +9923,164 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hkSEW33u3nJiMwx2ibKZO+9teU8MdDzGGSuH1KnSp0I=\""
+          "Value": "\"IAlnmfaAjK8V8+yo+d4wNiUdK3RHweDEfiT5wtgxUGQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IAlnmfaAjK8V8+yo+d4wNiUdK3RHweDEfiT5wtgxUGQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/A_PSC.Shared.r3qgfckw38.pdb",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.Shared.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J0eELfc6PWtrzy4s9gVndhsMcYreWIGNeaibXRHcc/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 06:02:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r3qgfckw38"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/A_PSC.Shared.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J0eELfc6PWtrzy4s9gVndhsMcYreWIGNeaibXRHcc/g="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/A_PSC.Shared.r3qgfckw38.pdb",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\esmzoa71ye-r3qgfckw38.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000127113258"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7866"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IAlnmfaAjK8V8+yo+d4wNiUdK3RHweDEfiT5wtgxUGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"J0eELfc6PWtrzy4s9gVndhsMcYreWIGNeaibXRHcc/g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r3qgfckw38"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/A_PSC.Shared.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J0eELfc6PWtrzy4s9gVndhsMcYreWIGNeaibXRHcc/g="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/A_PSC.Shared.r3qgfckw38.pdb.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\esmzoa71ye-r3qgfckw38.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IAlnmfaAjK8V8+yo+d4wNiUdK3RHweDEfiT5wtgxUGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10122,7 +10098,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lmyek1ket6"
+          "Value": "r3qgfckw38"
         },
         {
           "Name": "label",
@@ -10130,144 +10106,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hkSEW33u3nJiMwx2ibKZO+9teU8MdDzGGSuH1KnSp0I="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/A_PSC.Shared.pdb",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.Shared.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13700"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M2EAVLpIn9qX1atbocVUCUyqhwtz4p7UoJNHBGSJS+E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-M2EAVLpIn9qX1atbocVUCUyqhwtz4p7UoJNHBGSJS+E="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/A_PSC.Shared.pdb",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\esmzoa71ye-lmyek1ket6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000131578947"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7599"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hkSEW33u3nJiMwx2ibKZO+9teU8MdDzGGSuH1KnSp0I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"M2EAVLpIn9qX1atbocVUCUyqhwtz4p7UoJNHBGSJS+E=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-M2EAVLpIn9qX1atbocVUCUyqhwtz4p7UoJNHBGSJS+E="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/A_PSC.Shared.pdb.gz",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\esmzoa71ye-lmyek1ket6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7599"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hkSEW33u3nJiMwx2ibKZO+9teU8MdDzGGSuH1KnSp0I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hkSEW33u3nJiMwx2ibKZO+9teU8MdDzGGSuH1KnSp0I="
+          "Value": "sha256-IAlnmfaAjK8V8+yo+d4wNiUdK3RHweDEfiT5wtgxUGQ="
         }
       ]
     },
@@ -10282,7 +10121,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12053"
+          "Value": "14613"
         },
         {
           "Name": "Content-Type",
@@ -10290,11 +10129,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SWd8+XkRjAoNdgCr2ER3p6zZHJZ7/LzqyPmYuIzt1as=\""
+          "Value": "\"YcniFpmq2rifJTEKW24Hn+4WTRDeryG33fWoLF9xxr8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10304,18 +10143,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SWd8+XkRjAoNdgCr2ER3p6zZHJZ7/LzqyPmYuIzt1as="
+          "Value": "sha256-YcniFpmq2rifJTEKW24Hn+4WTRDeryG33fWoLF9xxr8="
         }
       ]
     },
     {
       "Route": "_framework/A_PSC.Shared.wasm",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\m9caz3vzin-1a6m2jfhnx.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\m9caz3vzin-zjhb5hw0al.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000226193169"
+          "Quality": "0.000185425552"
         }
       ],
       "ResponseHeaders": [
@@ -10325,15 +10164,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4420"
+          "Value": "5392"
         },
         {
           "Name": "ETag",
-          "Value": "\"sVQtofOUGGJLnVxvOH6K5aDNRN8c1VQkRfb17Arf1t4=\""
+          "Value": "\"Si/YGySj/PlwnVyL8EXT4NjjbWuvbCSeXEvJlYDOXo4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10353,19 +10192,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SWd8+XkRjAoNdgCr2ER3p6zZHJZ7/LzqyPmYuIzt1as=\""
+          "Value": "W/\"YcniFpmq2rifJTEKW24Hn+4WTRDeryG33fWoLF9xxr8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SWd8+XkRjAoNdgCr2ER3p6zZHJZ7/LzqyPmYuIzt1as="
+          "Value": "sha256-YcniFpmq2rifJTEKW24Hn+4WTRDeryG33fWoLF9xxr8="
         }
       ]
     },
     {
       "Route": "_framework/A_PSC.Shared.wasm.gz",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\m9caz3vzin-1a6m2jfhnx.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\m9caz3vzin-zjhb5hw0al.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10374,7 +10213,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4420"
+          "Value": "5392"
         },
         {
           "Name": "Content-Type",
@@ -10382,11 +10221,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sVQtofOUGGJLnVxvOH6K5aDNRN8c1VQkRfb17Arf1t4=\""
+          "Value": "\"Si/YGySj/PlwnVyL8EXT4NjjbWuvbCSeXEvJlYDOXo4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10404,7 +10243,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sVQtofOUGGJLnVxvOH6K5aDNRN8c1VQkRfb17Arf1t4="
+          "Value": "sha256-Si/YGySj/PlwnVyL8EXT4NjjbWuvbCSeXEvJlYDOXo4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/A_PSC.Shared.zjhb5hw0al.wasm",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\A_PSC.Shared.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YcniFpmq2rifJTEKW24Hn+4WTRDeryG33fWoLF9xxr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjhb5hw0al"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/A_PSC.Shared.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YcniFpmq2rifJTEKW24Hn+4WTRDeryG33fWoLF9xxr8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/A_PSC.Shared.zjhb5hw0al.wasm",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\m9caz3vzin-zjhb5hw0al.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000185425552"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5392"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Si/YGySj/PlwnVyL8EXT4NjjbWuvbCSeXEvJlYDOXo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YcniFpmq2rifJTEKW24Hn+4WTRDeryG33fWoLF9xxr8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjhb5hw0al"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/A_PSC.Shared.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YcniFpmq2rifJTEKW24Hn+4WTRDeryG33fWoLF9xxr8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/A_PSC.Shared.zjhb5hw0al.wasm.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\m9caz3vzin-zjhb5hw0al.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Si/YGySj/PlwnVyL8EXT4NjjbWuvbCSeXEvJlYDOXo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjhb5hw0al"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/A_PSC.Shared.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Si/YGySj/PlwnVyL8EXT4NjjbWuvbCSeXEvJlYDOXo4="
         }
       ]
     },
@@ -10427,7 +10427,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Etc/39UtGOPreM//gGEj0pncu8XU2wXnz7ZuabmMHVo=\""
+          "Value": "\"tP3l5KfylobnMx3O3IZ8ZRgcBagDudAi9vXU3DKyXsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 06:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tP3l5KfylobnMx3O3IZ8ZRgcBagDudAi9vXU3DKyXsY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\pvijz5ytm2-8590kg4ra6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000079245582"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12618"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/eHhV1eVGvd/Ri+esUhY+9nt5hnnKgVMEpfYuasmCsU=\""
         },
         {
           "Name": "Last-Modified",
@@ -10436,45 +10475,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Etc/39UtGOPreM//gGEj0pncu8XU2wXnz7ZuabmMHVo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\pvijz5ytm2-yvr78ipeah.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000079233024"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12620"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1TKRb4S0CLjlluFPRrAsaZog6qU9/eYeTWeIQUWT7L8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 02:56:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10490,19 +10490,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Etc/39UtGOPreM//gGEj0pncu8XU2wXnz7ZuabmMHVo=\""
+          "Value": "W/\"tP3l5KfylobnMx3O3IZ8ZRgcBagDudAi9vXU3DKyXsY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Etc/39UtGOPreM//gGEj0pncu8XU2wXnz7ZuabmMHVo="
+          "Value": "sha256-tP3l5KfylobnMx3O3IZ8ZRgcBagDudAi9vXU3DKyXsY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\pvijz5ytm2-yvr78ipeah.gz",
+      "AssetFile": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\obj\\Debug\\net9.0\\compressed\\pvijz5ytm2-8590kg4ra6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10511,7 +10511,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12620"
+          "Value": "12618"
         },
         {
           "Name": "Content-Type",
@@ -10519,11 +10519,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1TKRb4S0CLjlluFPRrAsaZog6qU9/eYeTWeIQUWT7L8=\""
+          "Value": "\"/eHhV1eVGvd/Ri+esUhY+9nt5hnnKgVMEpfYuasmCsU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 02:56:51 GMT"
+          "Value": "Thu, 24 Jul 2025 02:36:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10541,7 +10541,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1TKRb4S0CLjlluFPRrAsaZog6qU9/eYeTWeIQUWT7L8="
+          "Value": "sha256-/eHhV1eVGvd/Ri+esUhY+9nt5hnnKgVMEpfYuasmCsU="
         }
       ]
     },

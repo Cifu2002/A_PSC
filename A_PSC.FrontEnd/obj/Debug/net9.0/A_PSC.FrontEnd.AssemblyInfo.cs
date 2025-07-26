@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A_PSC.FrontEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55408455e3509eeb2109d92e840aa0cfb58164d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0a7dee1aab373a79c92cf3ab35e4fc6479e80d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("A_PSC.FrontEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A_PSC.FrontEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

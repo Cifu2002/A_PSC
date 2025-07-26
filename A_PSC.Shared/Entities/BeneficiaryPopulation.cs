@@ -5,24 +5,25 @@ namespace A_PSC.Shared.Entities
     public class BeneficiaryPopulation
     {
         [Key]
-        public int BeneficiaryPopulationId { get; set; }
+        public int IdBeneficiaryPopulation { get; set; }
 
-        [Required]
-        public int BeneficiaryPopulationMen { get; set; }
+        [Required(ErrorMessage = "Campo requerido")]
+        public int MenBeneficiaryPopulation { get; set; }
 
-        [Required]
-        public int BeneficiaryPopulationWomen { get; set; }
+        [Required(ErrorMessage = "Campo requerido")]
+        public int WomenBeneficiaryPopulation { get; set; }
 
-        [Required]
-        public int BeneficiaryPopulationTotal { get; set; }
+        [Required(ErrorMessage = "Campo requerido")]
+        public int TotalBeneficiaryPopulation { get; set; }
 
-        [Required]
-        public int DirectBeneficiaries { get; set; }
+        [Required(ErrorMessage = "Campo requerido")]
+        public int DirectBeneficiariesBeneficiaryPopulation { get; set; }
 
-        [Required]
-        public int IndirectBeneficiaries { get; set; }
+        [Required(ErrorMessage = "Campo requerido")]
+        public int IndirectBeneficiariesBeneficiaryPopulation { get; set; }
 
+        // Relación con proyecto (si se usa)
         //public int ProjectId { get; set; }
-        //public Project Project { get; set; } = null!;
+        //public Project? Project { get; set; }
     }
 }

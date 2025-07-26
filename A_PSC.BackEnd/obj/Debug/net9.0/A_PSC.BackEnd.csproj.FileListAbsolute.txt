@@ -174,7 +174,6 @@ C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.BackEnd\obj\Debug\net9.0\ref
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.BackEnd\obj\Debug\net9.0\A_PSC.BackEnd.pdb
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.BackEnd\obj\Debug\net9.0\A_PSC.BackEnd.genruntimeconfig.cache
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.BackEnd\obj\Debug\net9.0\ref\A_PSC.BackEnd.dll
-C:\Users\Esteban\Desktop\Tesis Programa\A_PSC\A_PSC.BackEnd\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC_F\A_PSC.BackEnd\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC_F\A_PSC.BackEnd\bin\Debug\net9.0\appsettings.json
 C:\Users\Esteban\Desktop\Tesis Programa\A_PSC_F\A_PSC.BackEnd\bin\Debug\net9.0\A_PSC.BackEnd.staticwebassets.endpoints.json

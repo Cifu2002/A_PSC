@@ -6,17 +6,19 @@ namespace A_PSC.Shared.Entities
     public class Canton
     {
         [Key]
-        public int CantonId { get; set; }
+        public int IdCanton { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Campo requerido")]
         [StringLength(50, ErrorMessage = "El nombre del cantón no puede exceder de 50 caracteres.")]
-        public string CantonName { get; set; } = null!;
+        public required string NameCanton { get; set; } = null!;
 
-        [Required]
-        [ForeignKey(nameof(Province))]
-        public int ProvinceIdPer { get; set; }
+        [Required(ErrorMessage = "Campo requerido")]
+        public int IdProvincePer { get; set; }
+
+        [ForeignKey(nameof(IdProvincePer))]
         public Province Province { get; set; } = null!;
 
+        // Relación 1:N con Parroquias
         public ICollection<Parish> Parishes { get; set; } = new List<Parish>();
     }
 }

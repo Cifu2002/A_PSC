@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05B01360-2F46-4DCE-812E-5EB51316D06E}|A_PSC.BackEnd\\A_PSC.BackEnd.csproj|c:\\users\\esteban\\desktop\\tesis programa\\a_psc\\a_psc.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05B01360-2F46-4DCE-812E-5EB51316D06E}|A_PSC.BackEnd\\A_PSC.BackEnd.csproj|solutionrelative:a_psc.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA8F9AC5-FB4F-49EE-A5D1-F151FB83E73D}|A_PSC.Shared\\A_PSC.Shared.csproj|c:\\users\\esteban\\desktop\\tesis programa\\a_psc\\a_psc.shared\\entities\\cooperatingentitycontribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8F9AC5-FB4F-49EE-A5D1-F151FB83E73D}|A_PSC.Shared\\A_PSC.Shared.csproj|solutionrelative:a_psc.shared\\entities\\cooperatingentitycontribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05B01360-2F46-4DCE-812E-5EB51316D06E}|A_PSC.BackEnd\\A_PSC.BackEnd.csproj|c:\\users\\esteban\\desktop\\tesis programa\\a_psc\\a_psc.backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{05B01360-2F46-4DCE-812E-5EB51316D06E}|A_PSC.BackEnd\\A_PSC.BackEnd.csproj|solutionrelative:a_psc.backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03AE170A-C6F9-4BF6-9668-BC173BD2E1D5}|A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj|c:\\users\\esteban\\desktop\\tesis programa\\a_psc\\a_psc.frontend\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03AE170A-C6F9-4BF6-9668-BC173BD2E1D5}|A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj|solutionrelative:a_psc.frontend\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03AE170A-C6F9-4BF6-9668-BC173BD2E1D5}|A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj|c:\\users\\esteban\\desktop\\tesis programa\\a_psc\\a_psc.frontend\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03AE170A-C6F9-4BF6-9668-BC173BD2E1D5}|A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj|solutionrelative:a_psc.frontend\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA8F9AC5-FB4F-49EE-A5D1-F151FB83E73D}|A_PSC.Shared\\A_PSC.Shared.csproj|c:\\users\\esteban\\desktop\\tesis programa\\a_psc\\a_psc.shared\\a_psc.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FA8F9AC5-FB4F-49EE-A5D1-F151FB83E73D}|A_PSC.Shared\\A_PSC.Shared.csproj|solutionrelative:a_psc.shared\\a_psc.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03AE170A-C6F9-4BF6-9668-BC173BD2E1D5}|A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj|c:\\users\\esteban\\desktop\\tesis programa\\a_psc\\a_psc.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03AE170A-C6F9-4BF6-9668-BC173BD2E1D5}|A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj|solutionrelative:a_psc.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05B01360-2F46-4DCE-812E-5EB51316D06E}|A_PSC.BackEnd\\A_PSC.BackEnd.csproj|c:\\users\\esteban\\desktop\\tesis programa\\a_psc\\a_psc.backend\\a_psc.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{05B01360-2F46-4DCE-812E-5EB51316D06E}|A_PSC.BackEnd\\A_PSC.BackEnd.csproj|solutionrelative:a_psc.backend\\a_psc.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03AE170A-C6F9-4BF6-9668-BC173BD2E1D5}|A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj|c:\\users\\esteban\\desktop\\tesis programa\\a_psc\\a_psc.frontend\\a_psc.frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{03AE170A-C6F9-4BF6-9668-BC173BD2E1D5}|A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj|solutionrelative:a_psc.frontend\\a_psc.frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{05B01360-2F46-4DCE-812E-5EB51316D06E}|A_PSC.BackEnd\\A_PSC.BackEnd.csproj|c:\\users\\esteban\\desktop\\tesis programa\\a_psc\\a_psc.backend\\data\\apsccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B01360-2F46-4DCE-812E-5EB51316D06E}|A_PSC.BackEnd\\A_PSC.BackEnd.csproj|solutionrelative:a_psc.backend\\data\\apsccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,102 +27,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.BackEnd\\Program.cs",
-              "RelativeDocumentMoniker": "A_PSC.BackEnd\\Program.cs",
-              "ToolTip": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.BackEnd\\Program.cs",
-              "RelativeToolTip": "A_PSC.BackEnd\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "CooperatingEntityContribution.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.Shared\\Entities\\CooperatingEntityContribution.cs",
+              "RelativeDocumentMoniker": "A_PSC.Shared\\Entities\\CooperatingEntityContribution.cs",
+              "ToolTip": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.Shared\\Entities\\CooperatingEntityContribution.cs",
+              "RelativeToolTip": "A_PSC.Shared\\Entities\\CooperatingEntityContribution.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T02:38:24.572Z",
+              "WhenOpened": "2025-07-26T07:55:52.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.BackEnd\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "A_PSC.BackEnd\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.BackEnd\\Properties\\launchSettings.json",
-              "RelativeToolTip": "A_PSC.BackEnd\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-24T02:38:11.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "A_PSC.FrontEnd\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\Pages\\Index.razor",
-              "RelativeToolTip": "A_PSC.FrontEnd\\Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-24T02:36:19.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.razor",
-              "DocumentMoniker": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\Pages\\Login.razor",
-              "RelativeDocumentMoniker": "A_PSC.FrontEnd\\Pages\\Login.razor",
-              "ToolTip": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\Pages\\Login.razor",
-              "RelativeToolTip": "A_PSC.FrontEnd\\Pages\\Login.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-09T17:53:24.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\Program.cs",
-              "RelativeDocumentMoniker": "A_PSC.FrontEnd\\Program.cs",
-              "ToolTip": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\Program.cs",
-              "RelativeToolTip": "A_PSC.FrontEnd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "APSCContext.cs",
+              "DocumentMoniker": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.BackEnd\\Data\\APSCContext.cs",
+              "RelativeDocumentMoniker": "A_PSC.BackEnd\\Data\\APSCContext.cs",
+              "ToolTip": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.BackEnd\\Data\\APSCContext.cs",
+              "RelativeToolTip": "A_PSC.BackEnd\\Data\\APSCContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:29:04.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "A_PSC.Shared.csproj",
-              "DocumentMoniker": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.Shared\\A_PSC.Shared.csproj",
-              "RelativeDocumentMoniker": "A_PSC.Shared\\A_PSC.Shared.csproj",
-              "ToolTip": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.Shared\\A_PSC.Shared.csproj",
-              "RelativeToolTip": "A_PSC.Shared\\A_PSC.Shared.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-09T17:15:27.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "A_PSC.BackEnd.csproj",
-              "DocumentMoniker": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.BackEnd\\A_PSC.BackEnd.csproj",
-              "RelativeDocumentMoniker": "A_PSC.BackEnd\\A_PSC.BackEnd.csproj",
-              "ToolTip": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.BackEnd\\A_PSC.BackEnd.csproj",
-              "RelativeToolTip": "A_PSC.BackEnd\\A_PSC.BackEnd.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-09T17:06:59.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "A_PSC.FrontEnd.csproj",
-              "DocumentMoniker": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj",
-              "RelativeDocumentMoniker": "A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj",
-              "ToolTip": "C:\\Users\\Esteban\\Desktop\\Tesis Programa\\A_PSC\\A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj",
-              "RelativeToolTip": "A_PSC.FrontEnd\\A_PSC.FrontEnd.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-09T17:05:38.409Z"
+              "WhenOpened": "2025-07-26T07:28:01.067Z",
+              "EditorCaption": ""
             }
           ]
         }
